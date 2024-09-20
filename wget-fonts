@@ -1,0 +1,44 @@
+mkdir -p ~/.fonts
+cd ~/.fonts
+echo "Safari-QTFrizQuad-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTFrizQuad-Bold.otf
+echo "Plastic or Glass-QTVagaRound-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
+echo "Polished Plastic Fun-QTBlimpo"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBlimpo.otf
+echo "Comix Text Bubble-QTMagicMarker"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTMagicMarker.otf
+echo "Rain Drop - QTSlogantype"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTSlogantype.otf
+echo "GlossyGalaxy-QTEraType"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTEraType.otf
+echo "3d Wood-QTHelvet-Black"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHelvet-Black.otf
+echo "Double Bumped-QTLautrecType"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTLautrecType.otf
+echo "Emap-QTFloraline-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTFloraline-Bold.otf
+echo "Furry Logo-QTDoghausHeavy"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTDoghausHeavy.otf
+echo "irregular Slab-QTCaligulatype"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTCaligulatype.otf
+echo "Lord of the Ring-QTBodini"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBodini.otf
+echo "mh3d bevel-QTHowardTypeFat"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHowardTypeFat.otf
+echo "Polka DOT-QTGreece"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTGreece.otf
+echo "PSYCHEDELIC-QTFrankHeavy"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTFrankHeavy.otf
+echo "Shiny Chrome-QTBookmann-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBookmann-Bold.otf
+echo "Snow Cover-QTChanceryType-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTChanceryType-Bold.otf
+echo "Wire Art-QTArnieB"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTArnieB.otf
+echo "Wrought Iron-QTAbbie"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTAbbie.otf
+echo "yaChrome-QTBasker-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBasker-Bold.otf
+echo "Zahnpasta plus-QTKooper"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTKooper.otf
