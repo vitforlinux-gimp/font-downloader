@@ -28,8 +28,8 @@ echo "mh3d bevel-QTHowardTypeFat"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHowardTypeFat.otf
 echo "Polka DOT-QTGreece"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTGreece.otf
-echo "PSYCHEDELIC-QTFrankHeavy"
-wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTFrankHeavy.otf
+echo "Psychedelic-QTHoboken"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHoboken.otf
 echo "Shiny Chrome-QTBookmann-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBookmann-Bold.otf
 echo "Snow Cover-QTChanceryType-Bold"
