@@ -1,7 +1,8 @@
 # font-downloader
 Script for download OFL needed fonts
 
-Use :
+Usage :
+
 1 download wget-font
 
 2 change execution mode (chmod +x wget-font)
