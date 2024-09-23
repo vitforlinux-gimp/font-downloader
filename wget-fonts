@@ -42,3 +42,8 @@ echo "yaChrome-QTBasker-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBasker-Bold.otf
 echo "Zahnpasta plus-QTKooper"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTKooper.otf
+echo "HighLighted-QTVagaRound-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
+echo "EggMelt-QTHowardTypeFat"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHowardTypeFat.otf
+
