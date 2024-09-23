@@ -46,4 +46,8 @@ echo "HighLighted-QTVagaRound-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
 echo "EggMelt-QTHowardTypeFat"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHowardTypeFat.otf
+echo "Bumpy-QTVagaRound-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
+echo "Dracula-QTFraktur"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTFraktur.otf
 
