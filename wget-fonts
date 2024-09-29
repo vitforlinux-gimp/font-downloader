@@ -56,5 +56,13 @@ echo "HappyYear-QTEurotype-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTEurotype-Bold.otf
 echo "Glossy3d-Walkway_Bold"
 wget -N https://raw.githubusercontent.com/VCF5/2018-2019-Top-Network-System-Fonts/refs/heads/master/Walkway/Walkway%20Bold.ttf
-
-
+echo "LogoTool-Wkshop-LobsterTwo-Bold"
+wget -N https://mirrors.ctan.org/fonts/lobster2/opentype/LobsterTwo-Bold.otf
+echo "Exploding-QTAtchen"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTAtchen.otf
+echo "Scanner-QTAncientOlive-Bold"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTAncientOlive-Bold.otf
+echo "Reflex-OldStyle-QTBodiniPoster-Italic"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBodiniPoster-Italic.otf
+echo "Ocean-text-QTHelvetCnd-Black"
+wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHelvetCnd-Black.otf
