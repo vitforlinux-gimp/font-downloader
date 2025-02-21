@@ -46,6 +46,7 @@ echo "HighLighted-QTVagaRound-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
 echo "EggMelt-QTHowardTypeFat"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHowardTypeFat.otf
+wget -N https://raw.githubusercontent.com/google/fonts/refs/heads/main/ofl/sniglet/Sniglet-Regular.ttf
 echo "Bumpy-QTVagaRound-Bold"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTVagaRound-Bold.otf
 echo "Dracula-QTFraktur"
@@ -66,3 +67,5 @@ echo "Reflex-OldStyle-QTBodiniPoster-Italic"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTBodiniPoster-Italic.otf
 echo "Ocean-text-QTHelvetCnd-Black"
 wget -N https://mirrors.ctan.org/fonts/qualitype/opentype/QTHelvetCnd-Black.otf
+echo "Rainbow text 300"
+wget -N https://raw.githubusercontent.com/googlefonts/Pacifico/refs/heads/main/fonts/otf/Pacifico-Regular.otf
